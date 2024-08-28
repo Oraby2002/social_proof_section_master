@@ -1,0 +1,181 @@
+.img_top {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 80px;
+  height: 30px;
+}
+.img_bottom {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 590px;
+  height: 285px;
+}
+.paragraph_1 {
+  width: 400px;
+}
+.product_show {
+  width: 1000px;
+  height: 550px;
+  margin: 80px auto;
+  padding: 32px 50px;
+  position: relative;
+}
+h1 {
+  color: hsl(300, 43%, 22%);
+  font-size: 40px;
+  font-weight: bold;
+}
+.user_love {
+  margin: 5px 4px;
+  width: 265px;
+  display: inline-block;
+}
+
+.evaluation {
+  position: absolute;
+  top: 110px;
+  left: 150px;
+  margin: 10px 15px;
+}
+.evaluate_1 {
+  background-color: hsla(301, 25%, 66%, 0.237);
+  padding: 12px 15px;
+  margin: 12px 350px;
+  margin-right: 150px;
+  border-radius: 5px;
+}
+.evaluate_2 {
+  background-color: hsla(301, 25%, 66%, 0.237);
+  padding: 12px 15px;
+  margin: 12px 390px;
+  margin-right: 113px;
+  border-radius: 5px;
+}
+.evaluate_3 {
+  background-color: hsla(301, 25%, 66%, 0.237);
+  padding: 12px 15px;
+  margin: 12px 425px;
+  margin-right: 74px;
+  border-radius: 5px;
+}
+.star-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.star {
+  width: 10px;
+  height: 10px;
+  margin-right: 18px;
+}
+.star-text {
+  margin-left: 18px;
+}
+.character_1 {
+  width: 270px;
+  margin: 15px 0px;
+  padding: 20px;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  height: 175px;
+}
+.image_buyer_1 {
+  border-radius: 50%;
+  display: inline-block;
+  margin: 10px 9px;
+  position: absolute;
+  left: 70px;
+  width: 52px;
+}
+.name_1 {
+  color: hsl(0, 0%, 100%);
+  display: inline-block;
+  margin: 20px 10px;
+  position: absolute;
+  left: 145px;
+}
+.Buyer_1 {
+  margin: 40px 88px;
+  color: hsl(333, 80%, 67%);
+  position: absolute;
+}
+.paragraph_2 {
+  margin: 66px 0px;
+  color: hsl(300, 24%, 96%);
+  padding: 24px 0px;
+}
+.character_2 {
+  width: 270px;
+  margin: 20px 90px;
+  padding: 20px;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  height: 175px;
+  position: absolute;
+  top: 327px;
+  right: 325px;
+}
+
+.image_buyer_2 {
+  border-radius: 50%;
+  display: inline-block;
+  margin: 12px 8px;
+  position: absolute;
+  left: 23px;
+  width: 52px;
+}
+.name_2 {
+  color: hsl(0, 0%, 100%);
+  display: inline-block;
+  margin: 20px 10px;
+  position: absolute;
+  left: 100px;
+}
+
+.Buyer_2 {
+  margin: 40px 89px;
+  color: hsl(333, 80%, 67%);
+  position: absolute;
+}
+.paragraph_3 {
+  margin: 66px 0px;
+  color: hsl(300, 24%, 96%);
+  padding: 24px 0px;
+}
+.character_3 {
+  width: 270px;
+  margin: 15px 650px;
+  padding: 20px;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 10px;
+  height: 175px;
+  position: absolute;
+  top: 380px;
+}
+.image_buyer_3 {
+  border-radius: 50%;
+  display: inline-block;
+  margin: 12px 8px;
+  position: absolute;
+  left: 20px;
+  width: 52px;
+}
+.name_3 {
+  color: hsl(0, 0%, 100%);
+  display: inline-block;
+  margin: 20px 5px;
+  position: absolute;
+  left: 95px;
+}
+.Buyer_3 {
+  margin: 40px 80px;
+  color: hsl(333, 80%, 67%);
+  position: absolute;
+}
+.paragraph_4 {
+  margin: 66px 0px;
+  color: hsl(300, 24%, 96%);
+  padding: 24px 0px;
+}
